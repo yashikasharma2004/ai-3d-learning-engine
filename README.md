@@ -3,7 +3,7 @@
 ### AI-Powered Interactive Learning System using 3D Visualization, Computer Vision, Gesture Recognition & Adaptive Learning
 
 <p align="center">
-  <img src="assets/poster.png" alt="AI 3D Learning Engine Poster" width="900"/>
+  <img src="poster.png" alt="AI 3D Learning Engine Poster" width="900"/>
 </p>
 
 <p align="center">
