@@ -28,7 +28,7 @@
 
 A complete working demonstration of the system is available here:
 
-**[▶️ Watch the 2-Minute Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)**
+**[▶️ Watch the 2-Minute Demo Video]((https://drive.google.com/file/d/1CJcCnXZkGSe6fZWK0C-OZE_NaMqPLqV6/view?usp=sharing))**
 
 > The demo showcases the interactive learning workflow, 3D visualization, gesture-based interaction, AI assistance, learner confusion monitoring, adaptive guidance, and quiz/assessment flow.
 
